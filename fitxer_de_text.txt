@@ -1,1 +1,2 @@
 Exercici de git per IT Academy - canvi des del main
+Exercici de git per IT Academy - afegint branches
