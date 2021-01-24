@@ -1,1 +1,1 @@
-Exercici de git per IT Academy
+Exercici de git per IT Academy - canvi des del main
